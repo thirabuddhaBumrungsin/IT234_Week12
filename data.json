@@ -1,7 +1,7 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
-  "studentId": "6XXXXXXXXX",
+  "shopName": "🔥 B&B69 🔥",
+  "owner": "ถิรพุทธิ์",
+  "studentId": "1680706452",
   "ownerPhone": "081-234-5678",
   "products": [
     {
@@ -27,6 +27,14 @@
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
+    },
+    {
+      "id": 4,
+      "name": "B-69",
+      "price": 69,
+      "emoji": "🍦",
+      "available": true,
+      "tags": ["ไอติม", "เย็น", "ขายดี"]
     }
   ]
 }
